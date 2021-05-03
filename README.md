@@ -73,8 +73,8 @@ ___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| Artem Kabilov | artjom.kabilvo@gmail.com |
-| Artem Kabilov  | artjom.kabilvo@gmail.com |
+| Georgi Blinov | georgi.blinov@gmail.com |
+| Georgi Blinov  | georgi.blinov@gmail.com |
 
 <!-- Task List -->
 * [x] Task 1
